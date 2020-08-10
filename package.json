@@ -1,0 +1,24 @@
+{
+  "name": "opencvjs-dist",
+  "version": "4.4.0",
+  "main": "build/opencv.js",
+  "description": "Generic build of opencv library for js.",
+  "keywords": [
+    "opencv",
+    "opencv.js"
+  ],
+  "homepage": "https://opencv.org/",
+  "license": "Apache-2.0",
+  "browser": {
+    "fs": false,
+    "http": false,
+    "https": false,
+    "url": false,
+    "zlib": false
+  },
+  "format": "amd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovanwubing/opencvjs-dist"
+  }
+}
